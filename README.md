@@ -8,6 +8,7 @@ This directory contains the private pre-release HTML source for Zone Slider lega
 - `privacy.html`
 - `terms.html`
 - `support.html`
+- `licenses.html`
 - `tokushoho.html`
 
 ## Publication Rule
